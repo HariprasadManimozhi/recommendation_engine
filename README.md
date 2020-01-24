@@ -11,4 +11,4 @@ Screenshot of the prototype:
 ![LMR_2](https://user-images.githubusercontent.com/28645647/73048150-2e412e80-3e9e-11ea-8b6a-3d0752a75dd2.PNG)
 
 
-**Reference: ** https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6
+**Reference:**  https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6
