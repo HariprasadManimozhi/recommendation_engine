@@ -6,7 +6,7 @@
 
 **Libraries:** Recommendation - Turicreate | API - Flask | Frontend - React 
 
-Screenshot of the local site:
+Screenshot of the prototype:
 
 ![LMR_2](https://user-images.githubusercontent.com/28645647/73048150-2e412e80-3e9e-11ea-8b6a-3d0752a75dd2.PNG)
 
